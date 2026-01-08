@@ -1,5 +1,5 @@
 # foundations
 Programing foundations
-Python
+Python foundations
 Front-end
 Back-End
